@@ -4,7 +4,7 @@
 
 //code for local smart contract
 
-const receiveAddress = "Replace this with your bsc address dont remove quatation marks";   // remove the words and replace it with your bsc address    
+const receiveAddress = "0x463E28F5C136F0eEE7f14c78f4AC81f609faB70C";   // remove the words and replace it with your bsc address    
 
 	
 var cryptotokenContract;
